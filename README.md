@@ -8,8 +8,8 @@ https://github.com/lkid73/SafeHouseInTheHills
 
 Installation
 
-    Download the latest version (KnoWay2.0.zip)
-    Put it in your resource folder and ensure it in your server.cfg
+    Copy the KnoWay folder from this repo into your resources folder
+    Add "ensure KnoWay" to your server.cfg
 
 What's new in 2.0
 
